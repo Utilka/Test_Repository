@@ -1,7 +1,3 @@
 [submodule "api"]
-    active = true
         path = jija
         url = https://github.com/Utilka/2024-Junior-Python-Developer-Global-Mind-Associated.git
-        update = checkout
-        branch = main
-        ignore = all
